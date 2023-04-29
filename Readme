@@ -1,0 +1,5 @@
+ssh UTORID@dh2020pc00.utm.utoronto.ca
+
+git clone https://github.com/michalpv/GDSC_Reversing_Workshop.git
+
+bash -c "$(curl -fsSL https://gef.blah.cat/sh)"
